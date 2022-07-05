@@ -1,3 +1,0 @@
-# JetpackPractice
-
-Jetpack component practice

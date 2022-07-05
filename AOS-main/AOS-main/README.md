@@ -1,2 +1,0 @@
-# AOS
-WEKIT AOS REPO
